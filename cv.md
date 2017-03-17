@@ -92,9 +92,9 @@ Machine Learning - online course offered through Coursera (Duration: 55h)
 
 **Activities**: Give support to students in need and correct the exams.
 
-### 2011 – 2012: Particular professor
+### 2011 – 2012: Personal Academic Instructor
 
-Worked as particular professor, assisting in the study for college admission exams in the field of physics and mathematics.
+Worked as personal academic instructor, assisting in the study for college admission exams in the field of physics and mathematics.
 
 ## Research Projects
 ---

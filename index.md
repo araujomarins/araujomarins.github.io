@@ -10,23 +10,21 @@ I'm **Matheus A. Marins** and I'm currently pursuing my master's degree at Feder
 
 My research interest is in **machine learning**, and I'm starting my study in the field of **deep learning**.
 
-The reason I created this page is to keep tracking of my development, and to share some of my research.
-
-Hope you all like it! See ya!
-
 ### More information
 
-For more academic information, please access my curriculum at [**Lattes**](http://lattes.cnpq.br/4476862527285936) platform (only in Portuguese).
+For more academic information, please access my [curriculum](/cv) or the [Lattes](http://lattes.cnpq.br/4476862527285936) platform (Lattes available only in Portuguese).
 
+{::options parse_block_html="true" /}
+<div class="contact">
 ### Contact
 
 #### Location
 
 Av. Horacio Macedo, 2030
 
-Technology Center, Block H, room 221 and Block I, room 146
+Centro de Tecnologia, Bloco H, sala 221, ou Bloco I, sala 146
 
-University City, Rio de Janeiro - RJ
+Cidade Universitária, Rio de Janeiro - RJ
 
 CEP 21941-598.
 
@@ -41,3 +39,5 @@ Rio de Janeiro – RJ – Brasil
 Room H-221: +55 (21) 3938-8207
 
 Room I-146: +55 (21) 3938-8118
+
+</div>
