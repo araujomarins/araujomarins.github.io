@@ -129,3 +129,12 @@ Worked as personal academic instructor, assisting in the study for college admis
 3. Papers published in National Conferences
   * Ribeiro, F. M. L., Marins, M., Netto, S. L., da Silva, E. A. B. .[Rotating machinery fault diagnosis using similarity-based models](https://www.researchgate.net/publication/321966481_Rotating_machinery_fault_diagnosis_using_similarity-based_models). XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, pp. 277-281, São Pedro, Brasil, September 2017.
   * MARINS, M. A.; CHAVES, R. S.; PINHO, V. M. ; CUNHA, R. A. F.; CAMPOS, M. L. R. .[Tackling Fingerprinting Indoor Localization Using the LASSO and the Conjugate Gradient Algorithms](http://www.sbrt.org.br/sbrt2016/anais/ST13/1570278798.pdf). In: XXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém-Pará.
+
+## Academic Honors and Prizes
+---
+
+* Received "Bolsa Aluno Nota 10" (Grade A Student Scholarship, in english), prize given by the Rio de Janeiro State to the 2 best students of each graduation department.
+* Bronze Medal on 19a Cono Sur Mathematical Olympiad - Pucon, Chile, 2008.
+* Bronze Medal on 32a Brazilian Mathematical Olympiad - 2009 and 2006.
+* Honarable Mention on the Brazilian Mathematical Olympiad - 2010 and 2008.
+* Gold Medal on Rio de Janerito State Mathematical Olympiad - 2010, 2009 and 2007.
