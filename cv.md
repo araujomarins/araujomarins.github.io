@@ -135,6 +135,6 @@ Worked as personal academic instructor, assisting in the study for college admis
 
 * Received "Bolsa Aluno Nota 10" (Grade A Student Scholarship, in english), prize given by the Rio de Janeiro State to the 2 best students of each graduation department.
 * Bronze Medal on 19a Cono Sur Mathematical Olympiad - Pucon, Chile, 2008.
-* Bronze Medal on 32a Brazilian Mathematical Olympiad - 2009 and 2006.
+* Bronze Medal on Brazilian Mathematical Olympiad - 2009 and 2006.
 * Honarable Mention on the Brazilian Mathematical Olympiad - 2010 and 2008.
 * Gold Medal on Rio de Janerito State Mathematical Olympiad - 2010, 2009 and 2007.
