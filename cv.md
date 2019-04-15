@@ -123,7 +123,6 @@ Worked as personal academic instructor, assisting in the study for college admis
 ---
 
 1. Papers published in International Journals
-
   * Marins, M. A., Ribeiro, F. M. L., Netto, S. L., da Silva, E. A.  B. .[Improved similarity-based modeling for the classification of rotating-machine failures](https://www.researchgate.net/publication/318767684_Improved_Similarity-Based_Modeling_for_the_Classification_of_Rotating-Machine_Failures). Journal of the Franklin Institute, Elsevier,  355 (2018), pp. 1913--1930, 2017.
 
 2. Papers published in International Conferences
@@ -132,5 +131,4 @@ Worked as personal academic instructor, assisting in the study for college admis
 
 3. Papers published in National Conferences
   * Ribeiro, F. M. L., Marins, M., Netto, S. L., da Silva, E. A. B. .[Rotating machinery fault diagnosis using similarity-based models](https://www.researchgate.net/publication/321966481_Rotating_machinery_fault_diagnosis_using_similarity-based_models). XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, pp. 277-281, São Pedro, Brasil, September 2017.
-
   * MARINS, M. A.; CHAVES, R. S.; PINHO, V. M. ; CUNHA, R. A. F.; CAMPOS, M. L. R. .[Tackling Fingerprinting Indoor Localization Using the LASSO and the Conjugate Gradient Algorithms](http://www.sbrt.org.br/sbrt2016/anais/ST13/1570278798.pdf). In: XXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém-Pará.
